@@ -1,3 +1,5 @@
 estas es la historia mia de git  porque tengo 28 años y quiero progrmar como un crack
 
 estamos probando como funcionan los cambios en git 
+
+y por esto es lo mejor con otra prueba
