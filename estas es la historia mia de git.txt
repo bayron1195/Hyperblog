@@ -1,5 +1,4 @@
-estas es la historia mia de git  porque tengo 28 años y quiero progrmar como un crack
+estas es la historia mia de git 
 
-estamos probando como funcionan los cambios en git 
-
-y por esto es lo mejor con otra prueba
+mañana nos enfocaremos 
+en nuestra vida real
